@@ -1,5 +1,9 @@
-# LeetCodeRecord
+Keeping records for code practices
 
-Keeping records for the accepted solutions for excercises in LeetCode
+Problems from 
+- Leetcode
+- Lintcode
+- 牛客网
+- Other Internet resources
 
-By Lin
+
